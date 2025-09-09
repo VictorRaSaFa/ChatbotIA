@@ -1,0 +1,38 @@
+#Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Diretórios de dependências
+env/
+venv/
+ENV/
+.venv/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+#Arquivos de configuração do editor
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+#Arquivos de configuração do pyenv
+.python-version
+
+#Arquivos temporários
+*.log
+*.bak
+*.tmp
+
+#Arquivos de banco de dados SQLite
+*.sqlite3
+
+#Arquivos de caches
+__pycache__/
+*.py[cod]
+*.so
