@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 _Adicione sua chave api Groq onde está indicado no arquivo ".env":_
 ```
-GROQ_API_KEY="Insira sua chave"
+GROQ_API_KEY = "Insira a chave"
 ```
 ## **Uso**
 
