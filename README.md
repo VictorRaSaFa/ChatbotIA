@@ -2,6 +2,7 @@
 Este é um chatbot feito em python que utiliza o provedor de IA Groq e seu modelo de IA 'llama-3.3-70b-versatile', além de Langchain. Ele foi criado como tarefa para faculdade e utiliza parâmetros fictícios. Abaixo alguns detalhes de uso.
 
 **Contexto**
+
 Neste chatbot foi aplicado o contexto de uma padaria onde o bot é responsável pelo atendimento de clientes, por isso ele responderá apenas a perguntas que tenham relevância a seu propósito.
 
 _Exemplos_
@@ -10,6 +11,7 @@ _Exemplos_
 "Qual novela da Globo de passava na Turquia" é uma pergunta inválida que não será respondida pelo bot.
 
 **Tecnologias**
+
 Groq API
 LangChain
 Python 3.10+
