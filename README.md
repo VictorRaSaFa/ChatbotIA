@@ -33,7 +33,7 @@ _Instale as dependências:_
 ```
 pip install -r requirements.txt
 ```
-_Adicione sua chave api Groq onde está indicado no arquivo ".env.example" e então altere o nome dele para simplesmente ".env":_
+_Adicione sua chave api Groq (https://console.groq.com/keys) onde está indicado no arquivo ".env.example" e então altere o nome dele para simplesmente ".env":_
 ```
 GROQ_API_KEY = "Insira a chave"
 ```
