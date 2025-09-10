@@ -59,3 +59,6 @@ Aqui está um resumo das suas perguntas:
 2. Perguntou sobre os doces disponíveis na padaria, e foram listados os itens com seus respectivos preços.
 3. Perguntou se uma torta salgada custa o mesmo que uma torta doce, e a resposta foi que não, pois elas têm preços diferentes.`
 ```
+## Link para a demonstração:
+
+https://youtu.be/gM3-Fq-ph50
