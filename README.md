@@ -49,16 +49,22 @@ py app.py
 ```
 _Faça perguntas a ele:_
 ```
-"Bem vindo à Padaria Prataria, sou o assistente Pãopei, em que posso ajudar?"
-"Digite: Quais doces vocês têm?"`
+"Bem vindo à Padaria Prataria, sou o assistente Pãopei, em que posso ajudar?  (Digite 'fim' caso queira interromper o atendimento)"
+"Digite: Quais doces vocês têm?"
 ```
 _Feitas 3 perguntas, um resumo das perguntas e respostas é apresentado:_
 ```
 Aqui está um resumo das suas perguntas:
 1. Perguntou sobre o preço de uma dúzia de pães de brioche, e a resposta foi R$13.20.
 2. Perguntou sobre os doces disponíveis na padaria, e foram listados os itens com seus respectivos preços.
-3. Perguntou se uma torta salgada custa o mesmo que uma torta doce, e a resposta foi que não, pois elas têm preços diferentes.`
+3. Perguntou se uma torta salgada custa o mesmo que uma torta doce, e a resposta foi que não, pois elas têm preços diferentes.
 ```
+
+_Caso queira interromper a conversa, digite "fim":_
+```
+"Digite: fim"
+```
+
 ## Link para a demonstração:
 
 https://youtu.be/gM3-Fq-ph50
