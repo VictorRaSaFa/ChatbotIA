@@ -50,7 +50,16 @@ py app.py
 _Faça perguntas a ele:_
 ```
 "Bem vindo à Padaria Prataria, sou o assistente Pãopei, em que posso ajudar?  (Digite 'fim' caso queira interromper o atendimento)"
+
 "Digite: Quais doces vocês têm?"
+
+Pãopei:
+Nossa padaria oferece os seguintes doces:
+- Bolos (Chocolate, Fubá, Cenoura) = R$7.00
+- Broa de milho = R$1.70
+- Pedaço de torta doce (Morango, Limão) = R$4.50
+- Carolina = R$0.30
+- Bomba de chocolate = R$1.40
 ```
 _Feitas 3 perguntas, um resumo das perguntas e respostas é apresentado:_
 ```
